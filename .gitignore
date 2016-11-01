@@ -1,0 +1,9 @@
+*.iml
+.idea/
+*.iml
+target/
+project/target
+project/project
+dependency-reduced-pom.xml
+*.pdf
+scratchspace.txt
