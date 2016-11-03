@@ -1,4 +1,4 @@
-Examples for Spark 2.0 release.
+Examples for Introduction to Akka HTTP.
 
 # Build
 

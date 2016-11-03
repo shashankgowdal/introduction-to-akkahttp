@@ -25,6 +25,9 @@ object IntroductionToStream {
 
     val runnableGraph = source via flow to sink
     runnableGraph.run()
+    runnableGraph.run()
+
+    sys.terminate()
 
   }
 
