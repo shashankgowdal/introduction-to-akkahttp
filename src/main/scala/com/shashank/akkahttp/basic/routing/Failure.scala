@@ -46,7 +46,6 @@ object Failure {
       }
 
     Http().bindAndHandle(route, "localhost", 8090)
-
   }
 
 }

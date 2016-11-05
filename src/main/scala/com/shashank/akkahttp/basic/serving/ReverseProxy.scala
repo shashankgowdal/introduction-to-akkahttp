@@ -10,7 +10,7 @@ import akka.stream.{ActorMaterializer, Materializer}
 /**
   * Created by shashank on 31/10/16.
   */
-object StreamComplexServing {
+object ReverseProxy {
 
   def main(args: Array[String]) {
     implicit val sys = ActorSystem("IntroductionToAkkaHttp")

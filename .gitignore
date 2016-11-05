@@ -7,3 +7,4 @@ project/project
 dependency-reduced-pom.xml
 *.pdf
 scratchspace.txt
+.DS_Store
